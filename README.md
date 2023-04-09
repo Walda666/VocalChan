@@ -1,4 +1,4 @@
-# DiscordBot Alerte streams
+# DiscordBot VocalChan
 
 ## Description
 Bot discord associant un channel écrit pour chaque channel vocal à la manière de Teamspeak.
